@@ -1,0 +1,28 @@
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\bin\Debug\netcoreapp2.1\CoreBot.deps.json
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\bin\Debug\netcoreapp2.1\CoreBot.runtimeconfig.json
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\bin\Debug\netcoreapp2.1\CoreBot.runtimeconfig.dev.json
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\bin\Debug\netcoreapp2.1\CoreBot.dll
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\bin\Debug\netcoreapp2.1\CoreBot.pdb
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.csprojAssemblyReference.cache
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.csproj.CoreCompileInputs.cache
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.RazorAssemblyInfo.cache
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.RazorAssemblyInfo.cs
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.AssemblyInfoInputs.cache
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.AssemblyInfo.cs
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.RazorTargetAssemblyInfo.cache
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.dll
+D:\ZERANDODIVIDAS\samples\csharp_dotnetcore\13.core-bot\obj\Debug\netcoreapp2.1\CoreBot.pdb
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\bin\Debug\netcoreapp2.1\CoreBot.deps.json
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\bin\Debug\netcoreapp2.1\CoreBot.runtimeconfig.json
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\bin\Debug\netcoreapp2.1\CoreBot.runtimeconfig.dev.json
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\bin\Debug\netcoreapp2.1\CoreBot.dll
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\bin\Debug\netcoreapp2.1\CoreBot.pdb
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.csproj.CoreCompileInputs.cache
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.RazorAssemblyInfo.cache
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.RazorAssemblyInfo.cs
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.AssemblyInfoInputs.cache
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.AssemblyInfo.cs
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.RazorTargetAssemblyInfo.cache
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.dll
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.pdb
+D:\Devworkplace\ChatBot-Devworkplace\Bot Oficial\BotDevworkplace\obj\Debug\netcoreapp2.1\CoreBot.csprojAssemblyReference.cache
